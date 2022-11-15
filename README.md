@@ -12,3 +12,5 @@
 🔹 Another empty field to write your <b>Password</b><br>
 🔹 Button for: <b>Login</b><br>
 🔹 Button for: <b>Facebook</b> or <b>Gmail</b> (that the user can use to register using these options)<br>
+
+![page](https://user-images.githubusercontent.com/117865111/202032907-6e350be7-241a-4926-9734-714e3cfc707f.jpg)
